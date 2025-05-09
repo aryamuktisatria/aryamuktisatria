@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&width=500&height=60&lines=Halo+👋+Saya+SiAnakAlim;Informatics+UPN+Veteran+YK;Full-Stack+Developer;Open+Source+Contributor" alt="Typing Animation" />
+</div>
 
-<!--
-**SiAnakAlim/sianakalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+```javascript
+const sianakalim = {
+  pronouns: "he/him",
+  education: "Informatics Engineering at UPN Veteran Yogyakarta",
+  currentFocus: "Web & Mobile Development",
+  skills: ["JavaScript", "PHP", "Flutter", "React", "Node.js"],
+  hobbies: ["Coding", "Gaming", "Contributing to OSS"],
+  funFact: "I can solve Rubik's cube while coding"
+};
