@@ -5,6 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 ```javascript
 const sianakalim = {
   pronouns: "he/him",
@@ -14,3 +15,33 @@ const sianakalim = {
   hobbies: ["Coding", "Gaming", "Contributing to OSS"],
   funFact: "I can solve Rubik's cube while coding"
 };
+```
+
+🛠 Tech Stack
+🌐 Frontend
+HTML5
+CSS3
+JavaScript
+React
+Flutter
+
+⚙️ Backend
+PHP
+Node.js
+Express
+
+🗃️ Databases
+MySQL
+MongoDB
+
+🧰 Tools
+Git
+VS Code
+Postman
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiAnakAlim&show_icons=true&theme=radical&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiAnakAlim&layout=compact&theme=radical"/> </div>
+📫 How to Reach Me
+Gmail
+LinkedIn
+Twitter
