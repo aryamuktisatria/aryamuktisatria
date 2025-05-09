@@ -16,7 +16,6 @@ const sianakalim = {
   funFact: "I can solve Rubik's cube while coding"
 };
 ```
-
 🛠 Tech Stack
 🌐 Frontend
 HTML5
@@ -40,8 +39,10 @@ VS Code
 Postman
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiAnakAlim&show_icons=true&theme=radical&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiAnakAlim&layout=compact&theme=radical"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiAnakAlim&show_icons=true&theme=radical&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiAnakAlim&layout=compact&theme=radical"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiAnakAlim&theme=radical" alt="GitHub Streak"/> </div>
 📫 How to Reach Me
 Gmail
 LinkedIn
 Twitter
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=SiAnakAlim&label=Profile+Views&color=blue&style=flat" alt="Profile Views"/> </div> ```
