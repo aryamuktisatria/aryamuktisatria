@@ -102,8 +102,8 @@ I love turning cosmic ideas into real-world applications — especially in the f
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryamuktisatria&repo=Portfolio&theme=radical&bg_color=0d1117&title_color=7D3CFF&text_color=FFF&border_color=444)](https://github.com/aryamuktisatria/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryamuktisatria&repo=SpaceApp&theme=radical&bg_color=0d1117&title_color=7D3CFF&text_color=FFF&border_color=444)](https://github.com/aryamuktisatria/SpaceApp)
+[![Readme Card](https://github.com/aryamuktisatria/Portfolio)
+[![Readme Card](https://github.com/aryamuktisatria/SpaceApp)
 
 </div>
 
