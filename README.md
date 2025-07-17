@@ -102,8 +102,8 @@ I love turning cosmic ideas into real-world applications — especially in the f
 
 <div align="center">
   
-[![Readme Card](https://github.com/aryamuktisatria/Portfolio)
-[![Readme Card](https://github.com/aryamuktisatria/SpaceApp)
+(https://github.com/aryamuktisatria/Portfolio)
+[(https://github.com/aryamuktisatria/ProjectKKN)
 
 </div>
 
