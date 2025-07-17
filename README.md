@@ -2,8 +2,6 @@
 
 ### 🌌 Cosmic Full-Stack Developer | Tech Explorer | UI/UX Enthusiast
 
-[![NASA API](https://img.shields.io/badge/NASA_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)](https://api.nasa.gov)
-[![Astro Theme](https://img.shields.io/badge/SPACE_THEME-6C3EC8?style=for-the-badge&logo=astro&logoColor=white)](#)
 
 ---
 
