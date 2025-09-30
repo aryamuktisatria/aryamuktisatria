@@ -151,22 +151,6 @@
 
 ---
 
-## 🚀 FEATURED MISSIONS
-
-<div align="center">
-
-<a href="https://github.com/aryamuktisatria/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamuktisatria&repo=Portfolio&theme=radical&bg_color=0d1117&title_color=7D3CFF&icon_color=FF7D3C&text_color=FFF&border_color=444&hide_border=true" />
-</a>
-
-<a href="https://github.com/aryamuktisatria/ProjectKKN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamuktisatria&repo=ProjectKKN&theme=radical&bg_color=0d1117&title_color=7D3CFF&icon_color=FF7D3C&text_color=FFF&border_color=444&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🌌 COSMIC WISDOM
 
 <div align="center">
