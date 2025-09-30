@@ -2,7 +2,7 @@
 
 # 🌌 ARYAMUKTI SATRIA HENDRAYANA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=7D3CFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Front+End+Developer;Cosmic+Code+Architect;UI%2FUX+Designer;Tech+Space+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=5000&pause=1000&color=7D3CFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Front+End+Developer;Back+End+Developer;Cosmic+Code+Architect;UI%2FUX+Designer;Tech+Space+Explorer" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=header&text=&fontSize=0" width="100%"/>
 
