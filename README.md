@@ -20,7 +20,6 @@
 ---
 
 ## 🪐 MISSION CONTROL
-
 ```typescript
 const aryamukti = {
   location: "Indonesia 🇮🇩",
