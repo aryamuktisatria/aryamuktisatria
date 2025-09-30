@@ -55,7 +55,7 @@
 <td>
 
 ### ⚡ Fun Fact
-> I debug code faster than light travels! 🚀
+- I debug code faster than light travels! 🚀
 
 </td>
 </tr>
