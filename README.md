@@ -198,9 +198,11 @@ Want to collaborate on a cosmic project or just chat about tech and space?
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/aryamuktisatria/count.svg)
+<img src="https://profile-counter.glitch.me/aryamuktisatria/count.svg" alt="Visitor Count"/>
 
-<img src="https://komarev.com/ghpvc/?username=aryamuktisatria&label=Stellar%20Visitors&color=7D3CFF&style=for-the-badge" alt="aryamuktisatria" />
+<img src="https://komarev.com/ghpvc/?username=aryamuktisatria&label=Stellar%20Visitors&color=7D3CFF&style=for-the-badge" alt="Profile Views" />
+
+![](https://hit.yhype.me/github/profile?user_id=aryamuktisatria)
 
 </div>
 
