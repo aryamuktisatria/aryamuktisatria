@@ -20,30 +20,49 @@
 ---
 
 ## 🪐 MISSION CONTROL
-```js
-const aryamukti = {
-  location: "Indonesia 🇮🇩",
-  role: "Full-Stack Developer",
-  education: "Informatics Engineering",
-  mission: "Transforming cosmic ideas into stellar applications",
-  
-  currentFocus: [
-    "Building scalable web applications",
-    "Exploring AI-powered solutions",
-    "Crafting intuitive user experiences",
-    "Contributing to open-source galaxies"
-  ],
-  
-  askMeAbout: [
-    "Full-stack development",
-    "UI/UX design principles",
-    "Backend architecture",
-    "Space tech & sci-fi"
-  ],
-  
-  funFact: "I debug code faster than light travels! 🚀"
-};
-```
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍🚀 About Me
+- 📍 **Location:** Indonesia 🇮🇩
+- 💼 **Role:** Full-Stack Developer
+- 🎓 **Education:** Informatics Engineering
+- 🎯 **Mission:** Transforming cosmic ideas into stellar applications
+
+</td>
+<td width="50%">
+
+### 🚀 Current Focus
+- 🌐 Building scalable web applications
+- 🤖 Exploring AI-powered solutions
+- 🎨 Crafting intuitive user experiences
+- 🌟 Contributing to open-source galaxies
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 💬 Ask Me About
+- 💻 Full-stack development
+- 🎨 UI/UX design principles
+- ⚙️ Backend architecture
+- 🛸 Space tech & sci-fi
+
+</td>
+<td>
+
+### ⚡ Fun Fact
+> I debug code faster than light travels! 🚀
+
+</td>
+</tr>
+</table>
+
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
