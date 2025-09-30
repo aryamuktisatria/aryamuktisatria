@@ -20,7 +20,7 @@
 ---
 
 ## 🪐 MISSION CONTROL
-```typescript
+```js
 const aryamukti = {
   location: "Indonesia 🇮🇩",
   role: "Full-Stack Developer",
